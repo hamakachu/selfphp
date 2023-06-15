@@ -1,3 +1,0 @@
-<IfModule mod_php.c>
-  php_value auto_prepend_file "AutoLoader.php"
-</IfModule>

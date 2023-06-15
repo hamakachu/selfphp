@@ -1,2 +1,0 @@
-<?php
-print MyClass::showClass();
