@@ -9,7 +9,6 @@
 <?php
 print 'こんにちは、世界！<br/>';
 print 'こんにちは、皆さん！<br/>';
-print 'hello';
 ?>
 
 </body>

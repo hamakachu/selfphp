@@ -7,7 +7,7 @@
 </head>
 <body>
 <?php
-print '頑張ろう、PHP！';
+print "頑張ろう、PHP!";
 ?>
 </body>
 </html>
