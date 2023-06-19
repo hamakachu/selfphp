@@ -1,4 +1,10 @@
 <?php
-print '108' + '15';
-print '108' + '1.5ABC';
-print '108' + '1.5E1';
+$x = 10;
+$y = ++$x;
+print $x;
+print $y;
+
+$i = 10;
+$j = $i++;
+print $i;
+Print $j;
